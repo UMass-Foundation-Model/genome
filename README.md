@@ -1,6 +1,6 @@
-# GNSVR: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules
+# GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules
 
-[ [Project Page](https://vis-www.cs.umass.edu/gnsvr/) | [Arxiv Paper](https://) | [Blog](https://) ]
+[ [Project Page](https://vis-www.cs.umass.edu/genome/) | [Arxiv Paper](https://arxiv.org/abs/2311.04901) ]
 
 ![teaser](assets/teaser_v4.png)
 
@@ -112,7 +112,7 @@ If you use this work or find it helpful, please consider citing: (bibtex)
 ```
 @inproceedings{gnsvr2023,
          author = {Chen, Zhenfang and Sun, Rui and Liu, Wenjun and Hong, Yining and Gan, Chuang},
-         title = {Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules},
+         title = {GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules},
          journal = {arXiv},
          year = {2023},
         } 
