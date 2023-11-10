@@ -1,4 +1,4 @@
-# GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules
+# GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs
 
 [ [Project Page](https://vis-www.cs.umass.edu/genome/) | [Arxiv Paper](https://arxiv.org/abs/2311.04901) ]
 
